@@ -1,1 +1,2 @@
 # Matrix-Multiplication-
+This program takes the input from the user via command line and generates a random array and then performs matrix application. The program contains methods that perform dot product on two vectors.
